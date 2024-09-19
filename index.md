@@ -9,7 +9,6 @@ I am a philosophy student at the University of Cambridge. My main research inter
 In 2024/25, I am serving as the president of the [Amoral Sciences Club](https://www.amoralsciences.com "Amoral Sciences Club"), as well as the undergraduate convenor of Cambridge's Minorities and Philosophy (MAP) Chapter.
 
 <br>
-<br>
-{% include figure.html image="/assets/photos/georgewangphoto.jpg" caption="Fancy photo" width="300" height="800" %}
+{% include figure.html image="/assets/photos/georgewangphoto.jpg" caption="An official photo width="300" height="800" %}
 <br>
 <br>
