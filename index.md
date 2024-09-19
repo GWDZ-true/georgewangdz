@@ -4,7 +4,7 @@ feature_text: |
   ## George Wang
 feature_image: "/assets/photos/sky1.png"
 ---
-I am a philosophy student at the University of Cambridge. My main research interests are in formal, social, and normative epistemology, and the intersections of epistemology with ethics and philosophy of language. Please feel free to check out my [CV](https://www.georgewangdz.com/assets/cv.pdf "CV") or my current [research projects](https://www/georgewangdz.com/research "research projects").
+I am a philosophy student at the University of Cambridge. My main research interests are in formal, social, and normative epistemology, and the intersections of epistemology with ethics and philosophy of language. Please feel free to check out my [CV](https://www.georgewangdz.com/assets/cv.pdf "CV") or my current [research projects](https://www.georgewangdz.com/research "research projects").
 
 In 2024/25, I am serving as the president of the [Amoral Sciences Club](https://www.amoralsciences.com "Amoral Sciences Club"), as well as the undergraduate convenor of Cambridge's Minorities and Philosophy (MAP) Chapter.
 
