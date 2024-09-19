@@ -13,4 +13,9 @@ Listed here are my current and past research projects:
 
 _In Preparation._ A paper identifying the wrong of prejudicial credibility excess as _epistemic scapegoating_: a phenomenon in which structural prejudices allow privileged epistemic agents to pre-emptively exculpate themselves of epistemic blame, at the cost of rendering the victims of prejudicial credibility excess vulnerable to wrongful epistemic blame.
 
+<br>
+<br>
+{% include figure.html image="/assets/photos/georgewangphoto2.jpg" caption="Fun photo" width="300" height="800" %}
+<br>
+<br>
 
