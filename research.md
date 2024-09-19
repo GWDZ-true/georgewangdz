@@ -2,7 +2,7 @@
 title: Research
 feature_text: |
   ## My current and past research projects
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/photos/sky2.png"
 # excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
