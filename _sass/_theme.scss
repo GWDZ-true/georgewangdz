@@ -87,11 +87,11 @@ body {
 
 .footer {
   background: #e6bed7;
-  color: $captionColour;
+  color: $bodyColour;
   a {
-    color: $captionColour;
+    color: $bodyColour;
     &:hover {
-      color: $captionColour;
+      color: $bodyColour;
     }
   }
   .container {
