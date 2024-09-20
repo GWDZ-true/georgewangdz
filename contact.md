@@ -2,7 +2,7 @@
 title: Contact
 feature_text: |
   ## Get in touch!
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/photos/sky3.png"
 # excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
