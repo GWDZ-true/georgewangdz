@@ -3,7 +3,20 @@ title: Contact
 feature_text: |
   ## Get in touch!
 feature_image: "/assets/photos/sky3.png"
-# excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
-{% include site-form.html %}
+<form
+  action="https://formspree.io/f/xvgpjvln"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
